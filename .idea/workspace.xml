@@ -1,7 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="627c7ad0-d8b6-4d5a-98f9-eac6fba83209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/pug-site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pug-site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/layouts/includes/head/icons.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/layouts/includes/head/icons.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/layouts/includes/head/title.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/layouts/includes/head/title.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/account-billing.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/account-notifications.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/account-profile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/account-security.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/alerts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/animations.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-login-basic.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-login-social.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-password-basic.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-password-social.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-register-basic.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/auth-register-social.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/avatars.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/background.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/badges.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/borders.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/buttons.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/cards.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/charts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/dashboard-2.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/dashboard-3.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/dropdowns.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-400.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-401.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-403.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-404-1.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-404-2.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-500.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-503.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/error-504.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/forms.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/header-breadcrumbs.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/header-compact.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/header-light.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/header-overlap.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/header-simplified.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/invoice.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/knowledge-base-article.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/knowledge-base-category.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/knowledge-base-home-1.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/knowledge-base-home-2.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/layout-boxed.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/layout-dark.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/layout-fluid.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/layout-rtl.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/layout-static.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/lift.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/mixins/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/mixins/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/mixins/sidenav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/mixins/sidenav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/mixins/topnav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/mixins/topnav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/modals.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/multi-tenant-add-users.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/multi-tenant-create.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/multi-tenant-join.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/multi-tenant-select.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/navigation.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/pricing.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/progress.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/shadows.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/starter-default.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/starter-minimal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/step.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/tables.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/timeline.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/toasts.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/tooltips.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/typography.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/wizard.pug" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pug/pages" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Git\personal\pug-site\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\personal\pug-site\src\pug\pages" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="949" y="478" key="EditFileWatcherDialog" timestamp="1599955684066">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="949" y="478" key="EditFileWatcherDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599955684066" />
   </component>
 </project>
