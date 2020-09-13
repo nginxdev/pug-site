@@ -9,7 +9,7 @@
         "build:scripts": "node scripts/build-scripts.js",
         "build:scss": "node scripts/build-scss.js",
         "clean": "node scripts/clean.js",
-        "start": "npm run build && node scripts/start.js",
+        "start": "npm run build && node set port 3001 && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
     "description": "A premium admin dashboard theme based on Bootstrap 4, created by Start Bootstrap.",
